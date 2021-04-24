@@ -22,5 +22,5 @@ Below are the snippets of the project.
 ![View Page](./screenshot/viewid2.PNG)
 
 # All records at once
-![Details Page](./screenshot/all details.PNG)
+![Details Page](./screenshot/all%20details.PNG)
 
