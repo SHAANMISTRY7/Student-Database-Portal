@@ -4,4 +4,7 @@ This is an CRUD project using Java Servlets &amp; JSP. The database part is done
 Below are the snippets of the project.
 
 # Login
-![Login Page](.screenshot/login.PNG)
+![Login Page](./screenshot/login.PNG)
+
+# Dashboard
+![Dashboard Page](./screenshot/dashboard.PNG)
